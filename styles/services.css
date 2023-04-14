@@ -1,0 +1,29 @@
+
+.services-wrapper {
+    background-color: #121212; 
+    padding: 150px 0 150px 0;
+}
+.services {
+    width: 1150px;
+    margin: 0 125px 0 125px; 
+}
+.services-wrapper h2  {
+    color: #FFFFFF;
+    margin-bottom: 34px;
+    padding-left: 125px;
+}
+.service {
+    margin-bottom: 60px ;   
+}
+.service:nth-last-child(1) {
+    margin: 0;
+}
+.service-text {
+    color: #FFFFFF;
+    margin: 0;   
+}
+.service-img {
+    margin-bottom: 15px;
+    max-width: 1150px;
+    height: 270px;
+}
